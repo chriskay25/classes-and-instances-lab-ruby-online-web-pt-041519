@@ -1,4 +1,4 @@
-class Person(name)
+class Person
 end 
 
 "adele goldberg" = Person.new
